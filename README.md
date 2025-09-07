@@ -11,7 +11,7 @@ In this repo, I try to summarize whatever I learned from his lectures in my own 
 
 | #  | Title | Notes |
 |----|-------|-------|
-| 07 | [Intro to Computing 07 - Library Functions, Variables, Intro to Errors](https://www.youtube.com/watch?v=7Vs4ABC3FJU&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym&index=8&pp=iAQB) | [📖 View Notes](#) |
+| 07 | [Intro to Computing 07 - Library Functions, Variables, Intro to Errors](https://www.youtube.com/watch?v=7Vs4ABC3FJU&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym&index=8&pp=iAQB) | [📖 View Notes](./lecture-07) |
 | 08 | [Intro to Computing 08 - Defining new Functions, Frames and Scope](https://www.youtube.com/watch?v=teum7kx-nQ4&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym&index=9&t=2165s&pp=iAQB) | [📖 View Notes](#) |
 | 09 | [Intro to Computing 09 - Paper Discussion and Autograder Details](https://www.youtube.com/watch?v=qGhGoHsUXow&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym&index=10&t=63s&pp=iAQB) | [📖 View Notes](#) |
 | 10 | [Intro to Computing 10 - Lexical Scope, Global Variables, Decision Making](https://www.youtube.com/watch?v=jzqHHT0eLCc&list=PLnd7R4Mcw3rLmfW78NJnXXaso1BNB9Kym&index=11&t=12s&pp=iAQB) | [📖 View Notes](#) |
